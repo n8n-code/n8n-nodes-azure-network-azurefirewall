@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-network-azurefirewall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Network Management API manages network resources via RESTful web services.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-network-azurefirewall",
